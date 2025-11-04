@@ -1,0 +1,7 @@
+{
+  "name": "KAICHAT",
+  "description": "A modern WhatsApp-style chat app with real-time messaging, admin approval system, and a cyber-aesthetic UI. Built with React, TailwindCSS, and Firebase.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
